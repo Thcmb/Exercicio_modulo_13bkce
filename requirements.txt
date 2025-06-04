@@ -1,0 +1,9 @@
+django 5.0.6 A high-level Python web framework that encourages rapid development and clean, pragmatic design.
+|-- asgiref >=3.7.0,<4
+|-- sqlparse >=0.3.1
+`-- tzdata *
+djangorestframework 3.15.1 Web APIs for Django, made easy.
+`-- django >=3.0
+    |-- asgiref >=3.7.0,<4 
+    |-- sqlparse >=0.3.1 
+    `-- tzdata * 
